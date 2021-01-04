@@ -1,4 +1,5 @@
 {{ menu('Main', 'main.my_menu') }}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, nostrum.
 {{--<!DOCTYPE html>--}}
 {{--<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">--}}
 {{--    <head>--}}
