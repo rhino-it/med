@@ -1,4 +1,4 @@
-{{ menu('Main', 'main.my_menu') }}
+{{--{{ menu('Main', 'main.my_menu') }}--}}
 {{--<!DOCTYPE html>--}}
 {{--<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">--}}
 {{--    <head>--}}
